@@ -14,5 +14,6 @@
     "Prueba"
   ],
   "author": "abraham4f",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {"@abraham4f:reigstry":"https://npm.pkg.github.com"}
 }
