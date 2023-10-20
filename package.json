@@ -1,0 +1,18 @@
+{
+  "name": "prueba_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "httos://github.com/abraham4f/Prueba_Git"
+  },
+  "keywords": [
+    "Prueba"
+  ],
+  "author": "abraham4f",
+  "license": "ISC"
+}
